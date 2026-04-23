@@ -143,26 +143,13 @@ aliases           ·  swih  ·  zoplop
 
 <br/>
 
-## `> stats`
+## `> activity`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Swih&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFCC00&icon_color=FF9500&text_color=FAFAFA&ring_color=FFCC00&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swih&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFCC00&text_color=FAFAFA&langs_count=8"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Swih&hide_border=true&background=0D0D0D&stroke=FFCC00&ring=FF9500&fire=FF9500&currStreakLabel=FFCC00&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=6a6a6a"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Swih&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&show_icons=true&bg_color=0D0D0D&title_color=FFCC00&icon_color=FF9500&text_color=FAFAFA&include_all_commits=true&count_private=true&custom_title=commits"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swih&theme=react-dark&bg_color=0D0D0D&color=FFCC00&line=FF9500&point=FAFAFA&area=true&area_color=FFCC00&hide_border=true" width="98%"/>
-</div>
-
-<br/>
-
-## `> contributions`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Swih/Swih/output/snake.svg" alt="snake contribution graph" width="100%"/>
