@@ -47,19 +47,19 @@ aliases           ·  swih  ·  zoplop
   <tr>
     <td><b>&nbsp;AUTOMATION&nbsp;</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Blue_Prism-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/n8n-0D0D0D?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/Power_Automate-0D0D0D?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D0D0D&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/Blue_Prism-1a1a1a?style=flat-square&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/n8n-1a1a1a?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/Power_Automate-1a1a1a?style=flat-square&logo=microsoft&logoColor=white&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1a1a&color=FFCC00"/>
     </td>
   </tr>
   <tr>
     <td><b>&nbsp;AI / AGENTS&nbsp;</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude_Code-0D0D0D?style=flat-square&logo=anthropic&logoColor=FFCC00&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/Codex-0D0D0D?style=flat-square&logo=openai&logoColor=FFCC00&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/MCP-0D0D0D?style=flat-square&logoColor=FFCC00&labelColor=0D0D0D&color=FFCC00"/>
-      <img src="https://img.shields.io/badge/Agent_SDK-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=anthropic&logoColor=FFCC00&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/Codex-1a1a1a?style=flat-square&logo=openai&logoColor=FFCC00&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/MCP-1a1a1a?style=flat-square&logoColor=FFCC00&labelColor=1a1a1a&color=FFCC00"/>
+      <img src="https://img.shields.io/badge/Agent_SDK-1a1a1a?style=flat-square&labelColor=1a1a1a&color=FFCC00"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
     </td>
@@ -97,9 +97,9 @@ aliases           ·  swih  ·  zoplop
       <h3>🏗 <a href="https://github.com/Swih/godot-foundry">godot-foundry</a></h3>
       <p align="left">Multi-agent game dev studio for <b>Godot Engine</b>, powered by <b>Claude Code</b>. 15 specialized agents. Built for solo devs who ship.</p>
       <p>
-        <img src="https://img.shields.io/badge/godot-0D0D0D?style=flat-square&logo=godotengine&logoColor=FFCC00"/>
-        <img src="https://img.shields.io/badge/claude_code-0D0D0D?style=flat-square&logo=anthropic&logoColor=FFCC00"/>
-        <img src="https://img.shields.io/badge/ai_agents-0D0D0D?style=flat-square&color=FFCC00"/>
+        <img src="https://img.shields.io/badge/godot-1a1a1a?style=flat-square&logo=godotengine&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/claude_code-1a1a1a?style=flat-square&logo=anthropic&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/ai_agents-1a1a1a?style=flat-square&color=FFCC00"/>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -109,9 +109,9 @@ aliases           ·  swih  ·  zoplop
       <h3>🤖 <a href="https://github.com/Swih/mistral-mcp">mistral-mcp</a></h3>
       <p align="left">MCP server exposing <b>Mistral AI</b> models to any MCP client. Drop-in for Claude Desktop, Claude Code, Cursor and other MCP-aware tooling.</p>
       <p>
-        <img src="https://img.shields.io/badge/mcp-0D0D0D?style=flat-square&color=FFCC00"/>
-        <img src="https://img.shields.io/badge/mistral-0D0D0D?style=flat-square&logo=mistralai&logoColor=FFCC00"/>
-        <img src="https://img.shields.io/badge/typescript-0D0D0D?style=flat-square&logo=typescript&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/mcp-1a1a1a?style=flat-square&color=FFCC00"/>
+        <img src="https://img.shields.io/badge/mistral-1a1a1a?style=flat-square&logo=mistralai&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/typescript-1a1a1a?style=flat-square&logo=typescript&logoColor=FFCC00"/>
       </p>
     </td>
   </tr>
@@ -123,8 +123,8 @@ aliases           ·  swih  ·  zoplop
       <h3>💧 <a href="https://github.com/Swih/decant-extension">decant-extension</a></h3>
       <p align="left">Extract clean <b>Markdown</b>, JSON or MCP from any web page. Chrome Extension + MCP Server.</p>
       <p>
-        <img src="https://img.shields.io/badge/chrome_extension-0D0D0D?style=flat-square&logo=googlechrome&logoColor=FFCC00"/>
-        <img src="https://img.shields.io/badge/mcp-0D0D0D?style=flat-square&color=FFCC00"/>
+        <img src="https://img.shields.io/badge/chrome_extension-1a1a1a?style=flat-square&logo=googlechrome&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/mcp-1a1a1a?style=flat-square&color=FFCC00"/>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -134,8 +134,8 @@ aliases           ·  swih  ·  zoplop
       <h3>🛒 <a href="https://github.com/Swih/whiskcam-headless">whiskcam-headless</a></h3>
       <p align="left">Headless <b>Shopify</b> storefront on <b>Next.js App Router</b>. Production-grade commerce template.</p>
       <p>
-        <img src="https://img.shields.io/badge/next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FFCC00"/>
-        <img src="https://img.shields.io/badge/shopify-0D0D0D?style=flat-square&logo=shopify&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=FFCC00"/>
+        <img src="https://img.shields.io/badge/shopify-1a1a1a?style=flat-square&logo=shopify&logoColor=FFCC00"/>
       </p>
     </td>
   </tr>
@@ -146,7 +146,7 @@ aliases           ·  swih  ·  zoplop
 ## `> activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swih&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&show_icons=true&bg_color=0D0D0D&title_color=FFCC00&icon_color=FF9500&text_color=FAFAFA&include_all_commits=true&count_private=true&custom_title=commits"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swih&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&show_icons=true&bg_color=1a1a1a&title_color=FFCC00&icon_color=FF9500&text_color=FAFAFA&include_all_commits=true&count_private=true&custom_title=commits"/>
 </div>
 
 <br/>
@@ -163,7 +163,7 @@ aliases           ·  swih  ·  zoplop
   <a href="https://www.linkedin.com/in/dayan-decamp/"><img src="https://img.shields.io/badge/LinkedIn-Dayan_Decamp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dayan.decamp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-dayan.decamp.pro-FFCC00?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Discord-zoplop-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <a href="https://github.com/Swih"><img src="https://img.shields.io/badge/GitHub-Swih-0D0D0D?style=for-the-badge&logo=github&logoColor=FFCC00"/></a>
+  <a href="https://github.com/Swih"><img src="https://img.shields.io/badge/GitHub-Swih-1a1a1a?style=for-the-badge&logo=github&logoColor=FFCC00"/></a>
 </p>
 
 <br/>
